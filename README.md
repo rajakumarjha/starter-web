@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 Just contribute to the exiting project by forking it on github.
 
 ## Deployment
-This is a simple web based projects!! It can be hosted on any server!!
+This is a simple web based projects!! It can be hosted on any server!!We can use AWS
+ot Azur, SCP any platform.!!
