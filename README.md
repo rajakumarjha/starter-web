@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+
+Fork this repository and contact me if any issue persists. 
 Just contribute to the exiting project by forking it on github.
 
 ## Deployment
